@@ -1,2 +1,2 @@
-# Wireless-Pi-Tool-Kit
-# FCAI-CU Graduation Project
+# Wireless-Pi Tool Kit
+# `FCAI-CU` Graduation Project
