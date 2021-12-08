@@ -4,7 +4,8 @@
 ### `Team Member `
 
 [Mahmoud Mohamed](https://github.com/mmsaeed509?tab=repositories) (Team Leader)
-<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/62524855/145219479-a19b4f86-7782-4a32-81d8-4cc855c5a8b3.png" />
+
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/62524855/145219479-a19b4f86-7782-4a32-81d8-4cc855c5a8b3.png" />
 
 , [Abdallah Adham](https://github.com/0xSkorpioN)
 
