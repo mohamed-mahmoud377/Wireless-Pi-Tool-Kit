@@ -10,9 +10,23 @@
 `Team Leader`, Core Dev, Infrastructure Manager, Release manager, Project Manager, Web Dev, ARM Dev, Community Manager, Package Maintainer, Website and Documentation Mantainer
 
 
+
+
+
+
+
+
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/62524855/145222987-2ca3b513-2817-468d-8199-7e0da5cdfb13.png" /> [Abdallah Adham](https://github.com/0xSkorpioN) 
 
 Core Dev, Web Dev, ARM Dev, Package Maintainer, Website and Documentation Mantainer
+
+
+
+
+
+
+
+
 
 
 
