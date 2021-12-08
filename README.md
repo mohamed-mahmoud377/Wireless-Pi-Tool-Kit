@@ -2,7 +2,14 @@
 # `FCAI-CU` Graduation Project
 
 ### `Team Member `
-[Mahmoud Mohamed](https://github.com/mmsaeed509?tab=repositories) , [Abdallah Adham](https://github.com/0xSkorpioN)
+<img src="https://user-images.githubusercontent.com/62524855/145219479-a19b4f86-7782-4a32-81d8-4cc855c5a8b3.png" width="200" height="200" />
+[Mahmoud Mohamed](https://github.com/mmsaeed509?tab=repositories) 
+
+![0_ozoz](https://user-images.githubusercontent.com/62524855/145219479-a19b4f86-7782-4a32-81d8-4cc855c5a8b3.png)
+
+
+
+, [Abdallah Adham](https://github.com/0xSkorpioN)
 
 ## Project Description
 #### Inspired by [Wifi-Slax](https://www.wifislax.com/)  Project so We are going to create a distro that contains a lot of tools more than Wifislax tools and we will support ARM Architecture (e.g Raspberry-Pi). It comes with a lot of pre-installed drivers(e.g ALFA Network & Hak5 Products, etc.. ), software(SDR & Hak5 Products, etc..), package managers, and libraries (e.g pip, scapy, etc..). we are going to build  a tool (Red-Network Kit) that you can use to apply attacks on Network.
