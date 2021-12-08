@@ -21,10 +21,11 @@ Core Dev, Web Dev, ARM Dev, Package Maintainer, Website and Documentation Mantai
 #### Inspired by [Wifi-Slax](https://www.wifislax.com/)  Project so We are going to create a distro that contains a lot of tools more than Wifislax tools and we will support ARM Architecture (e.g Raspberry-Pi). It comes with a lot of pre-installed drivers(e.g ALFA Network & Hak5 Products, etc.. ), software(SDR & Hak5 Products, etc..), package managers, and libraries (e.g pip, scapy, etc..). we are going to build  a tool (Red-Network Kit) that you can use to apply attacks on Network.
 
 ## Future Works
-*more features are going to add in Raspberry-Pi Image Like `DMWAP` <br />
+
+* more features are going to add in Raspberry-Pi Image Like `DMWAP` <br />
 `DMWAP` Stands For a Drone-Mounted Wireless Attack Platform that allows you to install Raspberry Pi (Wireless-Pi Tool Kit) on The Drone to get access remotely.
-*Creat WebSite For Distro .
-*Creat Community For Distro .
+* Creat WebSite For Distro .
+* Creat Community For Distro .
 <br />
 ![Screenshot_wifi-slax  Running  - Oracle VM VirtualBox_1](https://user-images.githubusercontent.com/62524855/143377326-1367d858-3284-47e6-8f7e-96794f50ff20.png)
 ![Screenshot_2021](https://user-images.githubusercontent.com/62524855/143660963-2000948a-105c-4006-a869-731697c2e5aa.png)
