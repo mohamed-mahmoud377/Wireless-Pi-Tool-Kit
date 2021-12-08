@@ -22,7 +22,7 @@ Core Dev, Web Dev, ARM Dev, Package Maintainer, Website and Documentation Mantai
 
 ## Future Works
 
-*  more features are going to add in Raspberry-Pi Image Like __`DMWAP` Which Stands For a Drone-Mounted Wireless Attack Platform that allows you to install Raspberry Pi (Wireless-Pi Tool Kit) on The Drone to get access remotely..
+*  more features are going to add in Raspberry-Pi Image Like _`DMWAP` Which Stands For a Drone-Mounted Wireless Attack Platform that allows you to install Raspberry Pi (Wireless-Pi Tool Kit) on The Drone to get access remotely..
 * Creat WebSite For Distro.
 * Creat Community For Distro.
 
