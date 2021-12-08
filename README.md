@@ -1,7 +1,7 @@
 # Wireless-Pi Tool Kit
 # `FCAI-CU` Graduation Project
 
-# `Team Member `
+### `Team Member `
 [Mahmoud Mohamed](https://github.com/mmsaeed509?tab=repositories) , [Abdallah Adham](https://github.com/0xSkorpioN)
 
 ## Project Description
