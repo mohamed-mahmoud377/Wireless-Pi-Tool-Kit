@@ -25,9 +25,16 @@ Core Dev, Web Dev, ARM Dev, Package Maintainer, Website and Documentation Mantai
 
 ## Future Works
 
-*  more features are going to add in Raspberry-Pi Image Like `DMWAP` Which Stands For a Drone-Mounted Wireless Attack Platform that allows you to install Raspberry Pi (Wireless-Pi Tool Kit) on The Drone to get access remotely.
+*  More features are going to add in Raspberry-Pi Image Like `DMWAP` Which Stands For a Drone-Mounted Wireless Attack Platform that allows you to install Raspberry Pi (Wireless-Pi Tool Kit) on The Drone to get access remotely.
 * Creat WebSite For Distro.
 * Creat Community For Distro.
+* Containers Images (e.g Docker) .
+* Live image on a CD/DVD/USB/PXE .
+* Virtual Machines Images for [VMware](https://www.vmware.com/) & [VirtualBox](https://www.virtualbox.org/) .
+* More ARM Image `Pine64` `HardKernel` `FriendlyARM` `Banana Pi` `Gateworks` .
+* Cloud Images (e.g AWS) .
+* Mobile Image like Kali NetHunter Project .
+* WSL Windows Subsystem for Linux is a software package on modern Windows installs that allow you to run Linux alongside your Windows system in an optimized container.
 
 <br />
 
