@@ -2,12 +2,9 @@
 # `FCAI-CU` Graduation Project
 
 ### `Team Member `
+
+[Mahmoud Mohamed](https://github.com/mmsaeed509?tab=repositories) (Team Leader)
 <img src="https://user-images.githubusercontent.com/62524855/145219479-a19b4f86-7782-4a32-81d8-4cc855c5a8b3.png" width="200" height="200" />
-[Mahmoud Mohamed](https://github.com/mmsaeed509?tab=repositories) 
-
-![0_ozoz](https://user-images.githubusercontent.com/62524855/145219479-a19b4f86-7782-4a32-81d8-4cc855c5a8b3.png)
-
-
 
 , [Abdallah Adham](https://github.com/0xSkorpioN)
 
