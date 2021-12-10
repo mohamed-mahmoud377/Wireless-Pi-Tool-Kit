@@ -41,9 +41,6 @@ Core Dev, Web Dev, ARM Dev, Package Maintainer, Website and Documentation Mantai
 
 <br />
 
-![Screenshot_wifi-slax  Running  - Oracle VM VirtualBox_1](https://user-images.githubusercontent.com/62524855/143377326-1367d858-3284-47e6-8f7e-96794f50ff20.png)
-![Screenshot_2021](https://user-images.githubusercontent.com/62524855/143660963-2000948a-105c-4006-a869-731697c2e5aa.png)
-
 
 
 
