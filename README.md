@@ -16,7 +16,6 @@
 `Security Manager`, `Community Manager`, Core Dev, Web Dev, ARM Dev, Package Maintainer, Website and Documentation Mantainer. 
 
 <br />
-<br />
 
 # Project Description <br />
 ### Inspired by [Wifi-Slax](https://www.wifislax.com/)  Project so We are going to create a distro that contains : - 
