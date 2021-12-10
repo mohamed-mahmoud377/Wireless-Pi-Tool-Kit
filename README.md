@@ -5,13 +5,13 @@
 
 
 
-<img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/62524855/145219479-a19b4f86-7782-4a32-81d8-4cc855c5a8b3.png" /> [Mahmoud Mohamed](https://github.com/mmsaeed509?tab=repositories)
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/62524855/145219479-a19b4f86-7782-4a32-81d8-4cc855c5a8b3.png" /> [Mahmoud Mohamed](https://github.com/mmsaeed509?tab=repositories)
 
 `Project Manager`,`Team Leader`, `Infrastructure Manager`, `Release manager`, Core Dev,  Web Dev, ARM Dev, Package Maintainer, Website and Documentation Mantainer.
 <br />
 <br />
 <br />
-<img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/62524855/145222987-2ca3b513-2817-468d-8199-7e0da5cdfb13.png" /> [Abdallah Adham](https://github.com/0xSkorpioN) 
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/62524855/145222987-2ca3b513-2817-468d-8199-7e0da5cdfb13.png" /> [Abdallah Adham](https://github.com/0xSkorpioN) 
 
 `Security Manager`, `Community Manager`, Core Dev, Web Dev, ARM Dev, Package Maintainer, Website and Documentation Mantainer. 
 
