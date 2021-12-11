@@ -26,27 +26,24 @@ Web Dev, Website and Documentation Mantainer.
 ### Inspired by [Wifi-Slax](https://www.wifislax.com/)  Project so We are going to create a distro that contains : - 
 *  a lot of tools more than Wifislax tools and we will support ARM Architecture (e.g Raspberry-Pi).
 *  It comes with a lot of pre-installed drivers(e.g ALFA Network & Hak5 Products, etc.. ), software(SDR & Hak5 Products, etc..), package managers, and libraries (e.g pip, scapy, etc..).
-*  we are going to build  a our Tools (Red-Network Kit) that you can use to apply attacks on Network.
+*  we will build our Tools (Red-Network Kit) that you can use to apply attacks on Network.
+*  
 #
 ### [Wifi-Slax](https://www.wifislax.com/) VS [Wireless-Pi Tool Kit](https://github.com/mmsaeed509/Wireless-Pi-Tool-Kit)
 
 
 | Feature Supporting   |       Wifi-Slax       |  Wireless-Pi Tool Kit  | 
 | -------------------- |:---------------------:|:----------------------:|
-| ARM Image (e.g Pi-4) |          No           |  Yes / Progressing...  |
-| WebSite For Distro   |          Yes          |  Yes / Progressing...  |
-| Community issue      |          No           |  Yes / Progressing...  |
-| Containers Image     |          No           |  Yes / Progressing...  |
-| Live Image           |          No           |  Yes / Progressing...  |
-| Virtual-Machines OVA |          No           |  Yes / Progressing...  |
-| Cloud Image          |          No           |  Yes / Progressing...  |
-| Mobile Image         |          No           |  Yes / Progressing...  |
-| WSL Image            |          No           |  Yes / Progressing...  |
-| Pine64 Image (ARM)   |          No           |  Yes / Progressing...  |
-| HardKernel (ARM)     |          No           |  Yes / Progressing...  |
-| FriendlyARM (ARM)    |          No           |  Yes / Progressing...  |
-| Banana Pi (ARM)      |          No           |  Yes / Progressing...  |
-
+| Raspberry Pi Image   |          No           |  Yes <br /> Progressing...  |
+| WebSite For Distro   |          Yes <br /> Done         |  Yes <br /> Progressing...  |
+| Community issue      |          No           |  Yes <br /> Progressing...  |
+| Containers Image     |          No           |  Yes <br /> Progressing...  |
+| WSL Image            |          No           |  Yes <br /> Progressing...  |
+| Live Image <br /> (CD/DVD/USB/PXE)|          No           |  Yes <br /> Progressing...  |
+| Virtual-Machines Images <br /> (VM Ware , Virtual Box) |          No           |  Yes <br /> Progressing...  |
+| Cloud Image          |          No           |  Yes <br /> Progressing...  |
+| Mobile Image         |          No           |  Yes <br /> Progressing...  |
+| ARM Images <br /> (e.g Pine64 HardKernel <br /> FriendlyARM Banana Pi)         |          No           |  Yes <br /> Progressing...  |
 
 
 ## Future Work
