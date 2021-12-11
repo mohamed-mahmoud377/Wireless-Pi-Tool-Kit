@@ -28,6 +28,26 @@ Web Dev, Website and Documentation Mantainer.
 *  It comes with a lot of pre-installed drivers(e.g ALFA Network & Hak5 Products, etc.. ), software(SDR & Hak5 Products, etc..), package managers, and libraries (e.g pip, scapy, etc..).
 *  we are going to build  a our Tools (Red-Network Kit) that you can use to apply attacks on Network.
 
+# [Wifi-Slax](https://www.wifislax.com/) VS [Wireless-Pi Tool Kit](https://github.com/mmsaeed509/Wireless-Pi-Tool-Kit)
+
+| Feature Supporting   |       Wifi-Slax       |  Wireless-Pi Tool Kit  | 
+| -------------------- |:---------------------:|:----------------------:|
+| ARM Image (e.g Pi-4) |          No           |  Yes / Progressing...  |
+| WebSite For Distro   |          Yes          |  Yes / Progressing...  |
+| Community issue      |          No           |  Yes / Progressing...  |
+| Containers Image     |          No           |  Yes / Progressing...  |
+| Live Image           |          No           |  Yes / Progressing...  |
+| Virtual-Machines OVA |          No           |  Yes / Progressing...  |
+| Cloud Image          |          No           |  Yes / Progressing...  |
+| Mobile Image         |          No           |  Yes / Progressing...  |
+| WSL Image            |          No           |  Yes / Progressing...  |
+| Pine64 Image (ARM)   |          No           |  Yes / Progressing...  |
+| HardKernel (ARM)     |          No           |  Yes / Progressing...  |
+| FriendlyARM (ARM)    |          No           |  Yes / Progressing...  |
+| Banana Pi (ARM)      |          No           |  Yes / Progressing...  |
+
+
+
 ## Future Work
 
 - [ ] [DMWAP](https://github.com/mmsaeed509/Wireless-Pi-Tool-Kit/blob/41f959a324b54ff456ed1301ff1f27f63f96de8d/Documents/Development%20of%20a%20Drone-Mounted%20Wireless%20Attack%20Platform.pdf) Which Stands For a Drone-Mounted Wireless Attack Platform that allows you to install Raspberry Pi (Wireless-Pi Tool Kit) on The Drone to get access remotely.
