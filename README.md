@@ -11,13 +11,13 @@
 <br />
 <img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/62524855/145222987-2ca3b513-2817-468d-8199-7e0da5cdfb13.png" /> [Abdallah Adham](https://github.com/0xSkorpioN) 
 
-`Security Manager`, `Community Manager`, Core Dev, Web Dev, ARM Dev, Package Maintainer, Website and Documentation Mantainer. 
+`Security Manager`, `Community Manager`, Core Dev, Web Dev, Package Maintainer, Website and Documentation Mantainer. 
 <br />
 <br />
 <br />
 <img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/62524855/145659973-1c9d0a0f-3586-4b0e-ac04-a23bcebd0765.png" /> [Mohamed Mahmoud](https://github.com/mohamed-mahmoud377) 
 
-Web Dev, Website and Documentation Mantainer. 
+Web Dev, Website and Documentation Mantainer, Core Dev. 
 <br />
 <br />
 <br />
