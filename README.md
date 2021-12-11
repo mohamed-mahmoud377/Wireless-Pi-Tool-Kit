@@ -30,16 +30,16 @@ Web Dev, Website and Documentation Mantainer.
 
 ## Future Work
 
-- [] [DMWAP](https://github.com/mmsaeed509/Wireless-Pi-Tool-Kit/blob/41f959a324b54ff456ed1301ff1f27f63f96de8d/Documents/Development%20of%20a%20Drone-Mounted%20Wireless%20Attack%20Platform.pdf) Which Stands For a Drone-Mounted Wireless Attack Platform that allows you to install Raspberry Pi (Wireless-Pi Tool Kit) on The Drone to get access remotely.
-- [] Creat WebSite For Distro.
-- [] Creat Community For Distro.
-- [] Containers Images (e.g Docker) .
-- [] Live image on a CD/DVD/USB/PXE .
-- [] Virtual Machines Images for [VMware](https://www.vmware.com/) & [VirtualBox](https://www.virtualbox.org/) .
-- [] More ARM Image [Pine64](https://www.pine64.org/) , [HardKernel](https://www.hardkernel.com/) , [FriendlyARM](https://www.friendlyarm.com/) , [Banana Pi](https://www.banana-pi.org/) , [Gateworks](https://www.gateworks.com/) .
-- [] Cloud Images (e.g AWS) .
-- [] Mobile Image like Kali NetHunter Project .
-- [] WSL Windows Subsystem for Linux is a software package on modern Windows installs that allow you to run Linux alongside your Windows system in an optimized container.
+- [x] [DMWAP](https://github.com/mmsaeed509/Wireless-Pi-Tool-Kit/blob/41f959a324b54ff456ed1301ff1f27f63f96de8d/Documents/Development%20of%20a%20Drone-Mounted%20Wireless%20Attack%20Platform.pdf) Which Stands For a Drone-Mounted Wireless Attack Platform that allows you to install Raspberry Pi (Wireless-Pi Tool Kit) on The Drone to get access remotely.
+- [ ] Creat WebSite For Distro.
+- [ ] Creat Community For Distro.
+- [ ] Containers Images (e.g Docker) .
+- [ ] Live image on a CD/DVD/USB/PXE .
+- [ ] Virtual Machines Images for [VMware](https://www.vmware.com/) & [VirtualBox](https://www.virtualbox.org/) .
+- [ ] More ARM Image [Pine64](https://www.pine64.org/) , [HardKernel](https://www.hardkernel.com/) , [FriendlyARM](https://www.friendlyarm.com/) , [Banana Pi](https://www.banana-pi.org/) , [Gateworks](https://www.gateworks.com/) .
+- [ ] Cloud Images (e.g AWS) .
+- [ ] Mobile Image like Kali NetHunter Project .
+- [ ] WSL Windows Subsystem for Linux is a software package on modern Windows installs that allow you to run Linux alongside your Windows system in an optimized container.
 
 <br />
 
