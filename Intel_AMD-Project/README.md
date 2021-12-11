@@ -1,1 +1,1 @@
-# Intel/AMD Images
+# Intel-AMD Images
