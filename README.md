@@ -30,7 +30,7 @@ Web Dev, Website and Documentation Mantainer.
 
 ## Future Work
 
-*  More features are going to add in Raspberry-Pi Image Like `DMWAP` Which Stands For a Drone-Mounted Wireless Attack Platform that allows you to install Raspberry Pi (Wireless-Pi Tool Kit) on The Drone to get access remotely.
+* `DMWAP` Which Stands For a Drone-Mounted Wireless Attack Platform that allows you to install Raspberry Pi (Wireless-Pi Tool Kit) on The Drone to get access remotely.
 * Creat WebSite For Distro.
 * Creat Community For Distro.
 * Containers Images (e.g Docker) .
