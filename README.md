@@ -21,7 +21,6 @@ Web Dev, Website and Documentation Mantainer.
 <br />
 <br />
 <br />
-<br />
 #
 # Project Description 
 ### Inspired by [Wifi-Slax](https://www.wifislax.com/)  Project so We are going to create a distro that contains : - 
