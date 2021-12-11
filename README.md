@@ -27,7 +27,7 @@ Web Dev, Website and Documentation Mantainer <br /> Core Dev, Package Maintainer
 *  a lot of tools more than Wifislax tools and we will support ARM Architecture (e.g Raspberry-Pi).
 *  It comes with a lot of pre-installed drivers(e.g ALFA Network & Hak5 Products, etc.. ), software(SDR & Hak5 Products, etc..), package managers, and libraries (e.g pip, scapy, etc..).
 *  we will build our Tools (Red-Network Kit) that you can use to apply attacks on Network.
-*  
+*  Read [Future Work](https://github.com/mmsaeed509/Wireless-Pi-Tool-Kit/blob/976d7ead9a6c7711c940ec4fe325fbfb9c6417ae/README.md#L49-L60).
 #
 ### [Wifi-Slax](https://www.wifislax.com/) VS [Wireless-Pi Tool Kit](https://github.com/mmsaeed509/Wireless-Pi-Tool-Kit)
 
