@@ -48,7 +48,7 @@ Web Dev, Website and Documentation Mantainer <br /> Core Dev, Package Maintainer
 
 ## Future Work
 
-- [ ] [DMWAP](https://github.com/mmsaeed509/Wireless-Pi-Tool-Kit/blob/41f959a324b54ff456ed1301ff1f27f63f96de8d/Documents/Development%20of%20a%20Drone-Mounted%20Wireless%20Attack%20Platform.pdf) Which Stands For a Drone-Mounted Wireless Attack Platform that allows you to install Raspberry Pi (Wireless-Pi Tool Kit) on The Drone to get access remotely.
+- [ ] [DMWAP](https://github.com/mmsaeed509/Wireless-Pi-Tool-Kit/blob/41f959a324b54ff456ed1301ff1f27f63f96de8d/Documents/Development%20of%20a%20Drone-Mounted%20Wireless%20Attack%20Platform.pdf) (Spying Drone) Which Stands For a Drone-Mounted Wireless Attack Platform that allows you to install Raspberry Pi (Wireless-Pi Tool Kit) on The Drone to get access remotely.
 - [ ] Creat WebSite For Distro.
 - [ ] Creat Community For Distro.
 - [ ] Containers Images (e.g Docker) .
