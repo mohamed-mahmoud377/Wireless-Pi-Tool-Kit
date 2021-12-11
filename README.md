@@ -5,19 +5,19 @@
 
 <img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/62524855/145219479-a19b4f86-7782-4a32-81d8-4cc855c5a8b3.png" /> [Mahmoud Mohamed](https://github.com/mmsaeed509?tab=repositories)
 
-`Project Manager`,`Team Leader`, `Infrastructure Manager`, `Release manager`, Core Dev,  Web Dev, ARM Dev, Package Maintainer, Website and Documentation Mantainer.
+`Project Manager`,`Team Leader`, `Infrastructure Manager`, `Release manager`,<br /> Core Dev,  Web Dev, ARM Dev, Package Maintainer, Website and Documentation Mantainer.
 <br />
 <br />
 <br />
 <img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/62524855/145222987-2ca3b513-2817-468d-8199-7e0da5cdfb13.png" /> [Abdallah Adham](https://github.com/0xSkorpioN) 
 
-`Security Manager`, `Community Manager`, Core Dev, Web Dev, Package Maintainer, Website and Documentation Mantainer. 
+`Security Manager`, `Community Manager`,<br /> Core Dev, Web Dev, Package Maintainer,<br /> Website and Documentation Mantainer. 
 <br />
 <br />
 <br />
 <img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/62524855/145659973-1c9d0a0f-3586-4b0e-ac04-a23bcebd0765.png" /> [Mohamed Mahmoud](https://github.com/mohamed-mahmoud377) 
 
-Web Dev, Website and Documentation Mantainer, Core Dev. 
+Web Dev, Website and Documentation Mantainer,<br /> Core Dev, Package Maintainer . 
 <br />
 <br />
 <br />
